@@ -1,6 +1,6 @@
 # Desperate-Girl
 Story:
-A girl fight to the monster in the sea, but she was died at end.
+A girl fight to the monster in the sea, but she was died at end.(The story is girl was died, player have to stay alive)
 
 Game type:
 Bellet hell
